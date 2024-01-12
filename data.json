@@ -1,0 +1,45 @@
+{
+    "Londres": {
+      "Jour 1": {
+        "Matin": ["Visite du British Museum", "Balade dans le quartier de Bloomsbury"],
+        "Aprem": ["Déjeuner à Covent Garden", "Visite de la National Gallery"]
+      },
+      "Jour 2": {
+        "Matin": ["Visite de la Tour de Londres", "Promenade sur le Tower Bridge"],
+        "Aprem": ["Croisière sur la Tamise", "Visite du Shard pour une vue panoramique"]
+      },
+      "Jour 3": {
+        "Matin": ["Visite du Palais de Buckingham et relève de la garde", "Balade dans le Green Park"],
+        "Aprem": ["Temps libre pour shopping ou exploration personnelle"]
+      }
+    },
+    "Paris": {
+      "Jour 1": {
+        "Matin": ["Visite de la Cathédrale Notre-Dame", "Balade le long de la Seine"],
+        "Aprem": ["Déjeuner dans le Quartier Latin", "Visite du Louvre"]
+      },
+      "Jour 2": {
+        "Matin": ["Ascension de la Tour Eiffel", "Balade dans le Champ de Mars"],
+        "Aprem": ["Croisière sur la Seine", "Visite des Champs-Élysées et l'Arc de Triomphe"]
+      },
+      "Jour 3": {
+        "Matin": ["Exploration de Montmartre", "Visite du Sacré-Cœur"],
+        "Aprem": ["Temps libre pour shopping ou exploration personnelle"]
+      }
+    },
+    "Rome": {
+      "Jour 1": {
+        "Matin": ["Visite du Colisée", "Exploration du Forum Romain"],
+        "Aprem": ["Déjeuner près du Panthéon", "Visite du Panthéon"]
+      },
+      "Jour 2": {
+        "Matin": ["Visite des Musées du Vatican", "Exploration de la Chapelle Sixtine"],
+        "Aprem": ["Visite de la Basilique Saint-Pierre", "Balade sur la place Saint-Pierre"]
+      },
+      "Jour 3": {
+        "Matin": ["Balade dans le Trastevere", "Visite de la Villa Borghèse"],
+        "Aprem": ["Temps libre pour shopping ou exploration personnelle"]
+      }
+    }
+  }
+  
