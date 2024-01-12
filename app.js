@@ -19,7 +19,7 @@ app.get("/test", (req, res) => {
 });
 
 // Démarrer le serveur
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3010;
 app.listen(PORT, () => {
   console.log(`Serveur en écoute sur le port ${PORT}`);
 });
