@@ -1,76 +1,1468 @@
 {
-  "Londres": {
-    "semaine": {
-      "Jour 1": {
-        "Matin": [
-          "Visite du British Museum",
-          "Balade dans le quartier de Bloomsbury"
-        ],
-        "Aprem": ["Déjeuner à Covent Garden", "Visite de la National Gallery"]
+  "paris": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Visite de la Tour Eiffel", "Promenade dans le Champ de Mars"],
+        "aprem": ["Déjeuner près de la Tour Eiffel", "Visite du Musée du Louvre"],
+        "soir": ["Dîner dans un café parisien", "Promenade le long de la Seine"]
       },
-      "Jour 2": {
-        "Matin": [
-          "Visite de la Tour de Londres",
-          "Promenade sur le Tower Bridge"
-        ],
-        "Aprem": [
-          "Croisière sur la Tamise",
-          "Visite du Shard pour une vue panoramique"
-        ]
+      "jour_2": {
+        "matin": ["Exploration de Montmartre", "Visite de la Basilique du Sacré-Cœur"],
+        "aprem": ["Déjeuner à Montmartre", "Visite du Musée d'Orsay"],
+        "soir": ["Dîner dans un restaurant français typique", "Spectacle au Moulin Rouge"]
       },
-      "Jour 3": {
-        "Matin": [
-          "Visite du Palais de Buckingham et relève de la garde",
-          "Balade dans le Green Park"
-        ],
-        "Aprem": ["Temps libre pour shopping ou exploration personnelle"]
+      "jour_3": {
+        "matin": ["Visite de la Cathédrale Notre-Dame de Paris", "Balade sur l'Île de la Cité"],
+        "aprem": ["Déjeuner sur l'Île Saint-Louis", "Croisière sur la Seine"],
+        "soir": ["Dîner en terrasse avec vue sur la Tour Eiffel"]
+      },
+      "jour_4": {
+        "matin": ["Visite du Château de Versailles", "Exploration des jardins"],
+        "aprem": ["Déjeuner à Versailles", "Visite du Petit Trianon"],
+        "soir": ["Retour à Paris", "Dîner dans le Marais"]
+      },
+      "jour_5": {
+        "matin": ["Exploration du Quartier Latin", "Visite du Panthéon"],
+        "aprem": ["Déjeuner dans un café du Quartier Latin", "Balade le long de la Seine"],
+        "soir": ["Dîner dans un restaurant gastronomique", "Promenade près de la Sorbonne"]
+      },
+      "jour_6": {
+        "matin": ["Visite du Musée de l'Orangerie", "Exploration du Jardin des Tuileries"],
+        "aprem": ["Déjeuner près des Tuileries", "Visite de l'Arc de Triomphe"],
+        "soir": ["Dîner sur les Champs-Élysées", "Spectacle au Lido de Paris"]
+      },
+      "jour_7": {
+        "matin": ["Visite du Musée de l'Armée des Invalides", "Balade au cimetière du Père-Lachaise"],
+        "aprem": ["Déjeuner près du Père-Lachaise", "Exploration du quartier du Marais"],
+        "soir": ["Dîner dans un bistro parisien", "Promenade nocturne au Canal Saint-Martin"]
+      },
+      "jour_8": {
+        "matin": ["Excursion au Château de Fontainebleau", "Exploration des jardins"],
+        "aprem": ["Déjeuner à Fontainebleau", "Visite de la Forêt de Fontainebleau"],
+        "soir": ["Retour à Paris", "Dîner dans un restaurant près de l'Opéra Garnier"]
+      },
+      "jour_9": {
+        "matin": ["Visite du Musée Picasso", "Promenade dans le Marais"],
+        "aprem": ["Déjeuner dans un café du Marais", "Visite de la Maison de la Photographie"],
+        "soir": ["Dîner dans un restaurant du Marais", "Spectacle au Théâtre du Châtelet"]
+      },
+      "jour_10": {
+        "matin": ["Excursion au Château de Vincennes", "Exploration du Bois de Vincennes"],
+        "aprem": ["Déjeuner à Vincennes", "Visite du Parc Floral de Paris"],
+        "soir": ["Retour à Paris", "Dîner dans un restaurant avec vue sur la Seine"]
+      },
+      "jour_11": {
+        "matin": ["Visite du Musée Rodin", "Balade dans les jardins de l'Hôtel Biron"],
+        "aprem": ["Déjeuner près du Musée Rodin", "Visite de la Fondation Louis Vuitton"],
+        "soir": ["Dîner dans un restaurant chic", "Promenade au Parc des Buttes-Chaumont"]
+      },
+      "jour_12": {
+        "matin": ["Excursion au Château de Malmaison", "Exploration du parc"],
+        "aprem": ["Déjeuner près de Malmaison", "Visite du Musée de la Défense"],
+        "soir": ["Retour à Paris", "Dîner dans le quartier de La Défense"]
+      },
+      "jour_13": {
+        "matin": ["Visite de la Fondation Claude Monet à Giverny", "Exploration des jardins"],
+        "aprem": ["Déjeuner à Giverny", "Visite de la Maison et des Jardins de Monet"],
+        "soir": ["Retour à Paris", "Dîner dans un restaurant en bord de Seine"]
+      },
+      "jour_14": {
+        "matin": ["Visite du Musée de l'Orangerie", "Balade dans les jardins des Tuileries"],
+        "aprem": ["Déjeuner près des Tuileries", "Visite du Musée de Cluny"],
+        "soir": ["Dîner dans un restaurant romantique", "Croisière nocturne sur la Seine"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer Paris à votre rythme"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café littéraire"],
+        "soir": ["Dîner d'adieu à Paris", "Une dernière balade le long de la Seine"]
       }
     }
   },
-  "Paris": {
-    "semaine": {
-      "Jour 1": {
-        "Matin": [
-          "Visite de la Cathédrale Notre-Dame",
-          "Balade le long de la Seine"
-        ],
-        "Aprem": ["Déjeuner dans le Quartier Latin", "Visite du Louvre"]
+  "rome": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Visite du Colisée", "Balade dans le Forum romain"],
+        "aprem": ["Déjeuner près du Colisée", "Visite du Mont Palatin"],
+        "soir": ["Dîner dans un restaurant italien typique", "Promenade nocturne dans le centre-ville"]
       },
-      "Jour 2": {
-        "Matin": [
-          "Ascension de la Tour Eiffel",
-          "Balade dans le Champ de Mars"
-        ],
-        "Aprem": [
-          "Croisière sur la Seine",
-          "Visite des Champs-Élysées et l'Arc de Triomphe"
-        ]
+      "jour_2": {
+        "matin": ["Exploration du Vatican", "Visite de la basilique Saint-Pierre"],
+        "aprem": ["Déjeuner près du Vatican", "Visite des musées du Vatican"],
+        "soir": ["Dîner dans un restaurant près de la Place Navone", "Dégustation de gelato à Trevi"]
       },
-      "Jour 3": {
-        "Matin": ["Exploration de Montmartre", "Visite du Sacré-Cœur"],
-        "Aprem": ["Temps libre pour shopping ou exploration personnelle"]
+      "jour_3": {
+        "matin": ["Visite du Panthéon", "Balade dans le quartier du Campo de' Fiori"],
+        "aprem": ["Déjeuner à Campo de' Fiori", "Visite de la Piazza Navona"],
+        "soir": ["Dîner dans une trattoria romaine", "Promenade le long du Tibre"]
+      },
+      "jour_4": {
+        "matin": ["Excursion à Pompéi", "Visite des ruines de Pompéi"],
+        "aprem": ["Déjeuner à Pompéi", "Exploration de la ville antique"],
+        "soir": ["Retour à Rome", "Dîner dans le quartier de Trastevere"]
+      },
+      "jour_5": {
+        "matin": ["Visite de la Villa Borghese", "Exploration des jardins"],
+        "aprem": ["Déjeuner près de la Villa Borghese", "Visite de la Galleria Borghese"],
+        "soir": ["Dîner dans un restaurant élégant", "Balade dans la Villa Borghese de nuit"]
+      },
+      "jour_6": {
+        "matin": ["Exploration du quartier de Testaccio", "Visite du cimetière non-catholique de Rome"],
+        "aprem": ["Déjeuner à Testaccio", "Visite du Musée national de Rome"],
+        "soir": ["Dîner dans une osteria traditionnelle", "Sortie dans les bars de Testaccio"]
+      },
+      "jour_7": {
+        "matin": ["Excursion à Ostie", "Visite des ruines d'Ostie antica"],
+        "aprem": ["Déjeuner à Ostie", "Exploration du port antique"],
+        "soir": ["Retour à Rome", "Dîner dans le quartier de l'Esquilin"]
+      },
+      "jour_8": {
+        "matin": ["Visite de la Basilique Saint-Jean-de-Latran", "Exploration de la Scala Santa"],
+        "aprem": ["Déjeuner près de Saint-Jean-de-Latran", "Visite de la Basilique Santa Maria Maggiore"],
+        "soir": ["Dîner dans un restaurant de cuisine romaine", "Promenade dans le quartier de San Giovanni"]
+      },
+      "jour_9": {
+        "matin": ["Exploration du quartier de Garbatella", "Visite du Palazzo dei Congressi"],
+        "aprem": ["Déjeuner à Garbatella", "Balade le long de la Via Appia Antica"],
+        "soir": ["Dîner dans un restaurant local", "Sortie dans les cafés de Garbatella"]
+      },
+      "jour_10": {
+        "matin": ["Visite du Castel Sant'Angelo", "Balade sur le pont Sant'Angelo"],
+        "aprem": ["Déjeuner près du Castel Sant'Angelo", "Exploration du quartier de Prati"],
+        "soir": ["Dîner dans un restaurant en terrasse", "Promenade le long du Tibre"]
+      },
+      "jour_11": {
+        "matin": ["Excursion à Tivoli", "Visite de la Villa d'Este"],
+        "aprem": ["Déjeuner à Tivoli", "Visite de la Villa Adriana"],
+        "soir": ["Retour à Rome", "Dîner dans le quartier de Monti"]
+      },
+      "jour_12": {
+        "matin": ["Visite du quartier de la Via del Corso", "Shopping le long de la Via del Corso"],
+        "aprem": ["Déjeuner près de la Piazza di Spagna", "Visite de la Trinité-des-Monts"],
+        "soir": ["Dîner dans un restaurant près de la Fontaine de Trevi", "Jet de la pièce dans la fontaine"]
+      },
+      "jour_13": {
+        "matin": ["Exploration du quartier de EUR", "Visite du musée de la civilisation romaine"],
+        "aprem": ["Déjeuner à EUR", "Balade dans le parc Centrale Montemartini"],
+        "soir": ["Dîner dans une pizzeria napolitaine", "Sortie dans les bars de Testaccio"]
+      },
+      "jour_14": {
+        "matin": ["Excursion à Castel Gandolfo", "Visite de la résidence d'été du pape"],
+        "aprem": ["Déjeuner à Castel Gandolfo", "Balade le long du lac Albano"],
+        "soir": ["Retour à Rome", "Dîner dans le quartier de Trastevere"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer Rome à votre rythme", "Derniers achats de souvenirs"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café historique"],
+        "soir": ["Dîner d'adieu à Rome", "Une dernière balade dans le quartier du Vatican"]
       }
     }
   },
-  "Rome": {
+  "new_york": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Arrivée à New York City", "Installation à l'hôtel"],
+        "aprem": ["Première découverte de Times Square", "Promenade dans le quartier des théâtres"],
+        "soir": ["Dîner dans un restaurant de cuisine internationale", "Vue nocturne de Times Square"]
+      },
+      "jour_2": {
+        "matin": ["Visite de Central Park", "Balade dans le parc"],
+        "aprem": ["Déjeuner près de Central Park", "Exploration de la Cinquième Avenue"],
+        "soir": ["Dîner dans un restaurant italien", "Promenade le long de la High Line"]
+      },
+      "jour_3": {
+        "matin": ["Excursion à la Statue de la Liberté", "Visite de Liberty Island"],
+        "aprem": ["Déjeuner à Battery Park", "Visite du Musée de l'Immigration"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Croisière autour de Manhattan"]
+      },
+      "jour_4": {
+        "matin": ["Visite du Musée d'Art Moderne (MoMA)", "Exploration des collections d'art"],
+        "aprem": ["Déjeuner près du MoMA", "Visite de la cathédrale Saint-Patrick"],
+        "soir": ["Dîner dans un restaurant typique de Little Italy", "Promenade dans le quartier de Chinatown"]
+      },
+      "jour_5": {
+        "matin": ["Excursion à Ellis Island", "Découverte de l'histoire de l'immigration"],
+        "aprem": ["Déjeuner à Ellis Island", "Visite du Mémorial du 11 septembre"],
+        "soir": ["Dîner dans un restaurant de cuisine américaine", "Spectacle à Broadway"]
+      },
+      "jour_6": {
+        "matin": ["Visite du Musée américain d'histoire naturelle", "Exploration des expositions"],
+        "aprem": ["Déjeuner près du musée", "Promenade dans le quartier d'Upper West Side"],
+        "soir": ["Dîner dans un restaurant international", "Sortie dans les bars de Hell's Kitchen"]
+      },
+      "jour_7": {
+        "matin": ["Excursion à Governors Island", "Balade à vélo sur l'île"],
+        "aprem": ["Déjeuner à Governors Island", "Visite du parc national de Castle Williams"],
+        "soir": ["Retour à Manhattan", "Dîner dans le quartier de West Village"]
+      },
+      "jour_8": {
+        "matin": ["Visite du Musée Solomon R. Guggenheim", "Exploration de l'architecture"],
+        "aprem": ["Déjeuner près du musée", "Visite de l'Upper East Side"],
+        "soir": ["Dîner avec vue panoramique", "Promenade le long de Brooklyn Bridge Park"]
+      },
+      "jour_9": {
+        "matin": ["Excursion à Coney Island", "Détente sur la plage"],
+        "aprem": ["Déjeuner à Coney Island", "Visite du parc d'attractions Luna Park"],
+        "soir": ["Dîner dans un restaurant de fruits de mer à Sheepshead Bay", "Promenade sur la jetée"]
+      },
+      "jour_10": {
+        "matin": ["Visite du Musée Whitney d'Art américain", "Exploration des expositions"],
+        "aprem": ["Déjeuner près du musée", "Promenade dans le Meatpacking District"],
+        "soir": ["Dîner dans un restaurant de cuisine fusion", "Sortie dans les clubs de Chelsea"]
+      },
+      "jour_11": {
+        "matin": ["Excursion à Roosevelt Island", "Balade sur l'île en téléphérique"],
+        "aprem": ["Déjeuner à Roosevelt Island", "Visite du parc Four Freedoms"],
+        "soir": ["Retour à Manhattan", "Dîner dans le quartier de Lower East Side"]
+      },
+      "jour_12": {
+        "matin": ["Visite du Musée Metropolitain d'Art", "Exploration des galeries d'art"],
+        "aprem": ["Déjeuner près du musée", "Promenade dans le quartier de Harlem"],
+        "soir": ["Dîner dans un restaurant de soul food", "Spectacle de jazz à Harlem"]
+      },
+      "jour_13": {
+        "matin": ["Excursion à Staten Island", "Vue panoramique de la Statue de la Liberté"],
+        "aprem": ["Déjeuner à Staten Island", "Visite du musée historique de Staten Island"],
+        "soir": ["Dîner dans un restaurant italien de Staten Island", "Promenade sur le front de mer"]
+      },
+      "jour_14": {
+        "matin": ["Visite du Bronx Zoo", "Découverte de la faune"],
+        "aprem": ["Déjeuner près du zoo", "Exploration du quartier du Bronx"],
+        "soir": ["Dîner dans un restaurant de cuisine caribéenne", "Sortie dans les clubs de salsa"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer New York City à votre rythme", "Derniers achats de souvenirs"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café emblématique"],
+        "soir": ["Dîner d'adieu à New York City", "Une dernière promenade nocturne à Times Square"]
+      }
+    }
+  },
+  "tokyo": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Visite du Palais impérial de Tokyo", "Promenade dans les jardins impériaux"],
+        "aprem": ["Déjeuner près du Palais impérial", "Visite du Musée Edo-Tokyo"],
+        "soir": ["Dîner dans un restaurant traditionnel", "Exploration de Ginza de nuit"]
+      },
+      "jour_2": {
+        "matin": ["Exploration du quartier d'Asakusa", "Visite du temple Senso-ji"],
+        "aprem": ["Déjeuner à Asakusa", "Balade le long de la rivière Sumida"],
+        "soir": ["Dîner dans un izakaya", "Promenade à Odaiba"]
+      },
+      "jour_3": {
+        "matin": ["Visite du parc Ueno", "Exploration du zoo de Ueno"],
+        "aprem": ["Déjeuner à Ueno", "Visite du Musée national de Tokyo"],
+        "soir": ["Dîner dans un restaurant de sushi", "Promenade dans le quartier d'Ameya-Yokocho"]
+      },
+      "jour_4": {
+        "matin": ["Excursion au Mont Fuji", "Randonnée autour du Mont Fuji"],
+        "aprem": ["Déjeuner près du Mont Fuji", "Visite d'un onsen (source thermale)"],
+        "soir": ["Retour à Tokyo", "Dîner dans le quartier d'Akihabara"]
+      },
+      "jour_5": {
+        "matin": ["Exploration du quartier de Harajuku", "Visite du temple Meiji"],
+        "aprem": ["Déjeuner à Harajuku", "Shopping sur Takeshita Street"],
+        "soir": ["Dîner dans un restaurant kawaii", "Balade dans le parc Yoyogi"]
+      },
+      "jour_6": {
+        "matin": ["Visite du Musée Ghibli", "Exploration du quartier de Mitaka"],
+        "aprem": ["Déjeuner à Mitaka", "Visite du Musée Edo-Tokyo"],
+        "soir": ["Dîner dans un restaurant de ramen", "Promenade nocturne à Nakano Broadway"]
+      },
+      "jour_7": {
+        "matin": ["Excursion à Nikko", "Visite des temples de Nikko"],
+        "aprem": ["Déjeuner à Nikko", "Exploration du parc national de Nikko"],
+        "soir": ["Retour à Tokyo", "Dîner dans le quartier de Shibuya"]
+      },
+      "jour_8": {
+        "matin": ["Visite du quartier d'Oshiage", "Ascension de la Tokyo Skytree"],
+        "aprem": ["Déjeuner à Oshiage", "Visite du centre commercial Tokyo Solamachi"],
+        "soir": ["Dîner dans un restaurant avec vue sur la ville", "Balade le long de la rivière Sumida"]
+      },
+      "jour_9": {
+        "matin": ["Exploration du quartier de Roppongi", "Visite du musée d'art Mori"],
+        "aprem": ["Déjeuner à Roppongi", "Balade dans le parc Hinokicho"],
+        "soir": ["Dîner dans un restaurant de cuisine internationale", "Sortie dans les bars de Roppongi"]
+      },
+      "jour_10": {
+        "matin": ["Visite du quartier d'Akabane", "Promenade au parc Akabane"],
+        "aprem": ["Déjeuner à Akabane", "Exploration du jardin Hodo-ji"],
+        "soir": ["Dîner dans un izakaya local", "Détente dans un sento (bain public)"]
+      },
+      "jour_11": {
+        "matin": ["Excursion à Kamakura", "Visite du Grand Bouddha de Kamakura"],
+        "aprem": ["Déjeuner à Kamakura", "Balade sur la plage de Kamakura"],
+        "soir": ["Retour à Tokyo", "Dîner dans le quartier de Shimokitazawa"]
+      },
+      "jour_12": {
+        "matin": ["Visite du parc Ueno", "Exploration du musée national de la nature et des sciences de Tokyo"],
+        "aprem": ["Déjeuner à Ueno", "Visite du zoo de Ueno"],
+        "soir": ["Dîner dans un restaurant de yakitori", "Promenade dans le parc Ueno de nuit"]
+      },
+      "jour_13": {
+        "matin": ["Exploration du quartier d'Ikebukuro", "Visite du jardin Rikugien"],
+        "aprem": ["Déjeuner à Ikebukuro", "Shopping dans les grands magasins de Sunshine City"],
+        "soir": ["Dîner dans un restaurant de sushi", "Balade nocturne à Ikebukuro"]
+      },
+      "jour_14": {
+        "matin": ["Visite du quartier d'Aoyama", "Exploration du musée Nezu"],
+        "aprem": ["Déjeuner à Aoyama", "Visite du parc Yoyogi"],
+        "soir": ["Dîner dans un restaurant branché", "Sortie dans les bars de Golden Gai"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer Tokyo à votre rythme", "Derniers achats de souvenirs"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café manga"],
+        "soir": ["Dîner d'adieu à Tokyo", "Une dernière promenade nocturne à Shinjuku"]
+      }
+    }
+  },
+  "sydney": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Arrivée à Sydney", "Installation à l'hôtel"],
+        "aprem": ["Première découverte de la plage de Bondi", "Promenade le long de la côte"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Vue nocturne de la plage de Bondi"]
+      },
+      "jour_2": {
+        "matin": ["Excursion au zoo de Taronga", "Rencontre avec la faune australienne"],
+        "aprem": ["Déjeuner près du zoo", "Visite du Jardin botanique royal"],
+        "soir": ["Dîner dans un restaurant international", "Promenade le long du port de Sydney"]
+      },
+      "jour_3": {
+        "matin": ["Visite de l'Opéra de Sydney", "Découverte de l'architecture emblématique"],
+        "aprem": ["Déjeuner près de l'Opéra", "Croisière dans la baie de Sydney"],
+        "soir": ["Dîner dans un restaurant avec vue sur le pont du port de Sydney", "Spectacle à l'Opéra de Sydney"]
+      },
+      "jour_4": {
+        "matin": ["Exploration du quartier historique de The Rocks", "Visite des sites historiques"],
+        "aprem": ["Déjeuner à The Rocks", "Ascension du Sydney Harbour Bridge"],
+        "soir": ["Dîner dans un restaurant typique de The Rocks", "Promenade nocturne dans le quartier"]
+      },
+      "jour_5": {
+        "matin": ["Excursion à la plage de Manly", "Détente sur la plage"],
+        "aprem": ["Déjeuner à Manly", "Promenade le long de la plage et du front de mer"],
+        "soir": ["Dîner dans un restaurant de fruits de mer à Manly", "Spectacle de musique live"]
+      },
+      "jour_6": {
+        "matin": ["Visite du musée d'Art contemporain de Sydney", "Exploration des expositions"],
+        "aprem": ["Déjeuner près du musée", "Visite du quartier de Darling Harbour"],
+        "soir": ["Dîner dans un restaurant international", "Promenade nocturne dans Darling Harbour"]
+      },
+      "jour_7": {
+        "matin": ["Excursion à l'aquarium de Sydney", "Découverte de la vie marine"],
+        "aprem": ["Déjeuner à Darling Harbour", "Visite de SEA LIFE Sydney Aquarium"],
+        "soir": ["Dîner dans un restaurant avec vue sur le port", "Spectacle nocturne à Darling Harbour"]
+      },
+      "jour_8": {
+        "matin": ["Visite du musée Powerhouse", "Exploration des expositions interactives"],
+        "aprem": ["Déjeuner près du musée", "Promenade dans le quartier de Newtown"],
+        "soir": ["Dîner dans un restaurant de cuisine du Moyen-Orient", "Sortie dans les bars de Newtown"]
+      },
+      "jour_9": {
+        "matin": ["Excursion à la plage de Bronte", "Balade le long de la côte"],
+        "aprem": ["Déjeuner à Bronte", "Visite du cimetière de Waverley"],
+        "soir": ["Dîner dans un restaurant de cuisine australienne moderne", "Spectacle de musique live"]
+      },
+      "jour_10": {
+        "matin": ["Visite du musée de la Force aérienne de RAAF", "Exploration des avions historiques"],
+        "aprem": ["Déjeuner près du musée", "Visite du parc olympique de Sydney"],
+        "soir": ["Dîner dans un restaurant international", "Promenade le long de la rivière Parramatta"]
+      },
+      "jour_11": {
+        "matin": ["Excursion au parc national royal", "Randonnée dans la nature"],
+        "aprem": ["Déjeuner près du parc", "Baignade à la plage de Wattamolla"],
+        "soir": ["Retour à Sydney", "Dîner dans un restaurant de fruits de mer"]
+      },
+      "jour_12": {
+        "matin": ["Visite du musée d'Art aborigène de la Nouvelle-Galles du Sud", "Découverte de l'art autochtone"],
+        "aprem": ["Déjeuner près du musée", "Visite du quartier de Redfern"],
+        "soir": ["Dîner dans un restaurant international", "Sortie dans les bars de Surry Hills"]
+      },
+      "jour_13": {
+        "matin": ["Excursion à la plage de Palm Beach", "Détente sur la plage"],
+        "aprem": ["Déjeuner à Palm Beach", "Promenade jusqu'au phare de Barrenjoey"],
+        "soir": ["Dîner dans un restaurant de fruits de mer à Palm Beach", "Spectacle de musique live"]
+      },
+      "jour_14": {
+        "matin": ["Visite du musée de l'immigration australienne", "Exploration de l'histoire de l'immigration"],
+        "aprem": ["Déjeuner près du musée", "Promenade dans le quartier de Chinatown"],
+        "soir": ["Dîner dans un restaurant asiatique", "Spectacle de danse traditionnelle"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer Sydney à votre rythme", "Derniers achats de souvenirs"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café emblématique"],
+        "soir": ["Dîner d'adieu à Sydney", "Une dernière promenade nocturne sur le front de mer"]
+      }
+    }
+  },
+  "cape_town": {
     "semaine": {
       "Jour 1": {
-        "Matin": ["Visite du Colisée", "Exploration du Forum Romain"],
-        "Aprem": ["Déjeuner près du Panthéon", "Visite du Panthéon"]
+        "Matin": ["Visite de l'Opéra de Sydney", "Balade dans le Jardin Botanique Royal"],
+        "Aprem": ["Déjeuner à Circular Quay", "Visite du Musée d'art contemporain"],
+        "Soir": ["Dîner au Quay"]
       },
       "Jour 2": {
-        "Matin": [
-          "Visite des Musées du Vatican",
-          "Exploration de la Chapelle Sixtine"
-        ],
-        "Aprem": [
-          "Visite de la Basilique Saint-Pierre",
-          "Balade sur la place Saint-Pierre"
-        ]
+        "Matin": ["Exploration de Bondi Beach", "Promenade sur la Bondi to Coogee walk"],
+        "Aprem": ["Visite de Taronga Zoo", "Croisière dans le port de Sydney"],
+        "Soir": ["Barbecue à la plage à Bondi"]
       },
       "Jour 3": {
-        "Matin": ["Balade dans le Trastevere", "Visite de la Villa Borghèse"],
-        "Aprem": ["Temps libre pour shopping ou exploration personnelle"]
+        "Matin": ["Visite de la tour de Sydney", "Balade dans le quartier de Darling Harbour"],
+        "Aprem": ["Temps libre pour shopping ou exploration personnelle"],
+        "Soir": ["Dîner au restaurant Tetsuya's"]
+      }
+    }
+  },
+  "rio_de_janeiro": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Arrivée à Rio de Janeiro", "Installation à l'hôtel"],
+        "aprem": ["Première découverte de la plage de Copacabana", "Promenade sur le front de mer"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Vue nocturne de la plage"]
+      },
+      "jour_2": {
+        "matin": ["Visite du Corcovado", "Découverte de la statue du Christ Rédempteur"],
+        "aprem": ["Déjeuner à Santa Teresa", "Exploration du quartier bohème"],
+        "soir": ["Dîner dans un restaurant typique de Lapa", "Sortie dans les bars de Lapa"]
+      },
+      "jour_3": {
+        "matin": ["Excursion à la plage d'Ipanema", "Balade le long de la plage"],
+        "aprem": ["Déjeuner à Ipanema", "Visite du parc Garota de Ipanema"],
+        "soir": ["Dîner dans un restaurant brésilien", "Spectacle de danse samba"]
+      },
+      "jour_4": {
+        "matin": ["Visite du Jardin botanique de Rio de Janeiro", "Promenade dans les jardins"],
+        "aprem": ["Déjeuner près du jardin botanique", "Visite du Parc Lage"],
+        "soir": ["Dîner dans un restaurant international", "Promenade nocturne sur la plage de Copacabana"]
+      },
+      "jour_5": {
+        "matin": ["Excursion à la plage de Leblon", "Détente sur la plage"],
+        "aprem": ["Déjeuner à Leblon", "Exploration du Fort de Copacabana"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Spectacle de musique brésilienne en direct"]
+      },
+      "jour_6": {
+        "matin": ["Visite de la montagne du Pain de Sucre", "Vue panoramique sur Rio"],
+        "aprem": ["Déjeuner près du Pain de Sucre", "Balade dans le parc Urca"],
+        "soir": ["Dîner dans un restaurant brésilien", "Sortie dans les bars de Botafogo"]
+      },
+      "jour_7": {
+        "matin": ["Excursion à la plage de Flamengo", "Promenade le long de la plage"],
+        "aprem": ["Déjeuner à Flamengo", "Visite du Musée d'Art Moderne de Rio de Janeiro"],
+        "soir": ["Dîner dans un restaurant typique de Santa Teresa", "Spectacle de danse samba"]
+      },
+      "jour_8": {
+        "matin": ["Visite de la Cité des Arts de Rio de Janeiro", "Exploration des galeries d'art"],
+        "aprem": ["Déjeuner près de la Cité des Arts", "Visite du Musée National des Beaux-Arts"],
+        "soir": ["Dîner dans un restaurant international", "Promenade nocturne à Lapa"]
+      },
+      "jour_9": {
+        "matin": ["Excursion à la plage de São Conrado", "Balade le long de la plage"],
+        "aprem": ["Déjeuner à São Conrado", "Visite du parc de la Tijuca"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Spectacle de musique brésilienne en direct"]
+      },
+      "jour_10": {
+        "matin": ["Visite de la favela de Santa Marta", "Rencontre avec la communauté locale"],
+        "aprem": ["Déjeuner dans une cantine de favela", "Visite du Musée de la Favela"],
+        "soir": ["Dîner dans un restaurant brésilien", "Sortie dans les bars de Lapa"]
+      },
+      "jour_11": {
+        "matin": ["Excursion à la plage de Barra da Tijuca", "Détente sur la plage"],
+        "aprem": ["Déjeuner à Barra da Tijuca", "Visite du parc aquatique Rio Water Planet"],
+        "soir": ["Dîner dans un restaurant typique de Barra da Tijuca", "Spectacle de danse samba"]
+      },
+      "jour_12": {
+        "matin": ["Visite de la cathédrale métropolitaine de Rio de Janeiro", "Découverte de l'architecture"],
+        "aprem": ["Déjeuner près de la cathédrale", "Visite du Musée d'Art Contemporain de Niterói"],
+        "soir": ["Dîner dans un restaurant international", "Promenade nocturne sur la plage de Copacabana"]
+      },
+      "jour_13": {
+        "matin": ["Excursion à la plage de Grumari", "Balade le long de la plage"],
+        "aprem": ["Déjeuner à Grumari", "Randonnée dans la réserve de Grumari"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Spectacle de musique brésilienne en direct"]
+      },
+      "jour_14": {
+        "matin": ["Visite du musée Carmen Miranda", "Exploration du quartier de Laranjeiras"],
+        "aprem": ["Déjeuner à Laranjeiras", "Visite du Parc Guinle"],
+        "soir": ["Dîner dans un restaurant typique de Santa Teresa", "Spectacle de danse samba"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer Rio de Janeiro à votre rythme", "Derniers achats de souvenirs"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café traditionnel"],
+        "soir": ["Dîner d'adieu à Rio de Janeiro", "Une dernière promenade nocturne sur la plage de Copacabana"]
+      }
+    }
+  },
+  "bangkok": {
+    "semaine": {
+      "Jour 1": {
+        "Matin": ["Visite du Grand Palais", "Visite du Wat Phra Kaew"],
+        "Aprem": ["Déjeuner de street food sur Khao San Road", "Visite du Wat Pho"],
+        "Soir": ["Dîner au restaurant Nahm"]
+      },
+      "Jour 2": {
+        "Matin": ["Croisière sur le fleuve Chao Phraya", "Visite du Wat Arun"],
+        "Aprem": ["Shopping au MBK Center", "Goûter au Siam Paragon"],
+        "Soir": ["Dîner au restaurant Le Normandie"]
+      },
+      "Jour 3": {
+        "Matin": ["Balade dans le parc Lumphini", "Visite du Snake Farm"],
+        "Aprem": ["Temps libre pour shopping ou exploration personnelle"],
+        "Soir": ["Dîner au restaurant Gaggan"]
+      }
+    }
+  },
+  "londres": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Visite du British Museum", "Balade dans le quartier de Bloomsbury"],
+        "aprem": ["Déjeuner à Covent Garden", "Visite de la National Gallery"],
+        "soir": ["Dîner dans un restaurant traditionnel", "Spectacle dans le West End"]
+      },
+      "jour_2": {
+        "matin": ["Visite de la Tour de Londres", "Promenade sur le Tower Bridge"],
+        "aprem": ["Croisière sur la Tamise", "Visite du Shard pour une vue panoramique"],
+        "soir": ["Dîner au bord de la Tamise", "Visite nocturne de la ville"]
+      },
+      "jour_3": {
+        "matin": ["Visite du Palais de Buckingham et relève de la garde", "Balade dans le Green Park"],
+        "aprem": ["Temps libre pour shopping ou exploration personnelle"],
+        "soir": ["Spectacle au Royal Albert Hall", "Dîner dans un pub historique"]
+      },
+      "jour_4": {
+        "matin": ["Visite de la Tate Modern", "Balade sur la rive sud de la Tamise"],
+        "aprem": ["Déjeuner au Borough Market", "Visite du Globe Theatre de Shakespeare"],
+        "soir": ["Croisière nocturne sur la Tamise"]
+      },
+      "jour_5": {
+        "matin": ["Exploration de Camden Market", "Balade le long du canal de Regent"],
+        "aprem": ["Déjeuner à Camden", "Visite du zoo de Londres"],
+        "soir": ["Dîner à King's Cross", "Visite de la plateforme 9 ¾ à la gare de King's Cross"]
+      },
+      "jour_6": {
+        "matin": ["Visite du musée d'histoire naturelle", "Exploration du Science Museum"],
+        "aprem": ["Déjeuner à South Kensington", "Visite du Victoria and Albert Museum"],
+        "soir": ["Soirée à Knightsbridge", "Shopping à Harrods"]
+      },
+      "jour_7": {
+        "matin": ["Balade à Notting Hill", "Visite du marché de Portobello"],
+        "aprem": ["Déjeuner à Notting Hill", "Temps libre pour explorer les boutiques locales"],
+        "soir": ["Dîner dans un restaurant avec vue sur le canal"]
+      },
+      "jour_8": {
+        "matin": ["Visite de la City de Londres", "Découverte de la cathédrale St-Paul"],
+        "aprem": ["Déjeuner à la City", "Visite de la Tour Sky Garden pour une vue à 360°"],
+        "soir": ["Spectacle au théâtre de la City ou dans un pub traditionnel"]
+      },
+      "jour_9": {
+        "matin": ["Exploration de Greenwich", "Visite de l'Observatoire royal"],
+        "aprem": ["Déjeuner à Greenwich", "Visite du Cutty Sark"],
+        "soir": ["Dîner à Greenwich", "Balade nocturne au bord de la Tamise"]
+      },
+      "jour_10": {
+        "matin": ["Visite du musée de Londres", "Balade dans le quartier financier"],
+        "aprem": ["Déjeuner dans un ancien marché couvert", "Visite de Leadenhall Market"],
+        "soir": ["Soirée jazz dans un club de la City"]
+      },
+      "jour_11": {
+        "matin": ["Exploration du quartier de Shoreditch", "Art de rue et visite de galeries"],
+        "aprem": ["Déjeuner à Brick Lane", "Shopping dans les boutiques vintage"],
+        "soir": ["Dîner dans un restaurant branché", "Soirée dans un bar rooftop"]
+      },
+      "jour_12": {
+        "matin": ["Visite de Kew Gardens", "Balade parmi les serres et les jardins botaniques"],
+        "aprem": ["Pique-nique à Kew Gardens", "Exploration du Palais de Kew"],
+        "soir": ["Retour au centre-ville", "Dîner léger et promenade le long de la Tamise"]
+      },
+      "jour_13": {
+        "matin": ["Journée d'excursion à Windsor", "Visite du château de Windsor"],
+        "aprem": ["Déjeuner à Windsor", "Visite d'Eton College"],
+        "soir": ["Retour à Londres", "Soirée libre"]
+      },
+      "jour_14": {
+        "matin": ["Visite de Hampton Court Palace", "Exploration des jardins"],
+        "aprem": ["Déjeuner près de Hampton Court", "Balade en barque sur la Tamise"],
+        "soir": ["Retour à Londres", "Dîner dans un quartier de votre choix"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour toute activité manquée ou shopping de dernière minute"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un musée local ou galerie non explorée"],
+        "soir": ["Dîner d'adieu à Londres", "Une dernière promenade nocturne emblématique"]
+      }
+    }
+  },
+  "istanbul": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Visite de la Mosquée Bleue", "Exploration de la place Sultanahmet"],
+        "aprem": ["Déjeuner à Sultanahmet", "Visite de la Basilique Sainte-Sophie"],
+        "soir": ["Dîner dans un restaurant turc traditionnel", "Promenade le long du Bosphore"]
+      },
+      "jour_2": {
+        "matin": ["Visite du Palais de Topkapi", "Exploration des jardins du palais"],
+        "aprem": ["Déjeuner à Eminönü", "Visite du Grand Bazar"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Croisière sur le Bosphore au coucher du soleil"]
+      },
+      "jour_3": {
+        "matin": ["Excursion à Büyükada (l'île aux Princes)", "Balade en calèche sur l'île"],
+        "aprem": ["Déjeuner à Büyükada", "Exploration de l'île"],
+        "soir": ["Retour à Istanbul", "Dîner dans le quartier de Kadiköy"]
+      },
+      "jour_4": {
+        "matin": ["Visite de la Citerne Basilique", "Exploration du quartier de Sultanahmet"],
+        "aprem": ["Déjeuner à Sultanahmet", "Visite de la Mosquée Süleymaniye"],
+        "soir": ["Dîner dans un restaurant avec vue panoramique", "Promenade dans le quartier de Beyoglu"]
+      },
+      "jour_5": {
+        "matin": ["Exploration du quartier de Karaköy", "Visite du Musée d'Art moderne d'Istanbul"],
+        "aprem": ["Déjeuner à Karaköy", "Balade le long de la Corne d'Or"],
+        "soir": ["Dîner dans un restaurant de poissons en bord de mer", "Sortie dans les cafés de Karaköy"]
+      },
+      "jour_6": {
+        "matin": ["Visite du Musée archéologique d'Istanbul", "Exploration du quartier d'Eyüp"],
+        "aprem": ["Déjeuner à Eyüp", "Visite de la Pierre sacrée d'Eyüp"],
+        "soir": ["Dîner dans un restaurant de cuisine turque traditionnelle", "Balade le long du Bosphore"]
+      },
+      "jour_7": {
+        "matin": ["Excursion à Anadolu Kavağı", "Croisière le long de la côte du Bosphore"],
+        "aprem": ["Déjeuner à Anadolu Kavağı", "Visite du château d'Anadolu Kavağı"],
+        "soir": ["Retour à Istanbul", "Dîner dans le quartier d'Ortaköy"]
+      },
+      "jour_8": {
+        "matin": ["Visite du Musée de la Mosaïque de Chora", "Exploration du quartier de Fener-Balat"],
+        "aprem": ["Déjeuner à Fener-Balat", "Visite de l'église de Saint-Serge-et-Bacchus"],
+        "soir": ["Dîner dans un restaurant de mezzés turcs", "Sortie dans les bars de Fener-Balat"]
+      },
+      "jour_9": {
+        "matin": ["Exploration du quartier de Kadiköy", "Visite du marché de Kadiköy"],
+        "aprem": ["Déjeuner à Kadiköy", "Balade le long de la promenade du front de mer"],
+        "soir": ["Dîner dans un restaurant de kebabs", "Promenade dans le quartier de Moda"]
+      },
+      "jour_10": {
+        "matin": ["Visite du Musée des Arts et des Traditions populaires", "Exploration du quartier de Üsküdar"],
+        "aprem": ["Déjeuner à Üsküdar", "Visite de la Mosquée Mihrimah Sultan"],
+        "soir": ["Dîner dans un restaurant de fruits de mer en bord de Bosphore", "Balade nocturne à Üsküdar"]
+      },
+      "jour_11": {
+        "matin": ["Excursion à Bursa", "Visite du mausolée de l'empereur Ottoman"],
+        "aprem": ["Déjeuner à Bursa", "Exploration de la vieille ville de Bursa"],
+        "soir": ["Retour à Istanbul", "Dîner dans le quartier de Beşiktaş"]
+      },
+      "jour_12": {
+        "matin": ["Visite du Musée Rahmi M. Koç", "Exploration du quartier de Karaköy"],
+        "aprem": ["Déjeuner à Karaköy", "Balade le long de la Corne d'Or"],
+        "soir": ["Dîner dans un restaurant de poissons en bord de mer", "Sortie dans les cafés de Karaköy"]
+      },
+      "jour_13": {
+        "matin": ["Exploration du quartier de Sultanahmet", "Visite du Musée de l'Innocence"],
+        "aprem": ["Déjeuner à Sultanahmet", "Visite de la Mosquée Rüstem Pacha"],
+        "soir": ["Dîner dans un restaurant avec vue panoramique", "Promenade dans le quartier de Beyoglu"]
+      },
+      "jour_14": {
+        "matin": ["Visite du Musée de la Mer et des Sciences", "Exploration du quartier de Kalamış"],
+        "aprem": ["Déjeuner à Kalamış", "Balade le long de la promenade de Kalamış"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Sortie dans les bars de Kadiköy"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer Istanbul à votre rythme", "Derniers achats de souvenirs"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café turc traditionnel"],
+        "soir": ["Dîner d'adieu à Istanbul", "Une dernière promenade nocturne sur le pont Galata"]
+      }
+    }
+  },
+  "barcelone": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Visite de la Sagrada Família", "Exploration du quartier de l'Eixample"],
+        "aprem": ["Déjeuner à proximité de la Sagrada Família", "Visite de l'Hôpital de Sant Pau"],
+        "soir": ["Dîner dans un restaurant catalan", "Promenade dans le parc de la Ciutadella"]
+      },
+      "jour_2": {
+        "matin": ["Visite du Parc Güell", "Balade dans le quartier de Gràcia"],
+        "aprem": ["Déjeuner à Gràcia", "Exploration du quartier de Vallcarca i els Penitents"],
+        "soir": ["Dîner dans un restaurant de tapas", "Sortie dans les bars de Gràcia"]
+      },
+      "jour_3": {
+        "matin": ["Excursion à Montserrat", "Visite du monastère de Montserrat"],
+        "aprem": ["Déjeuner à Montserrat", "Randonnée dans les montagnes de Montserrat"],
+        "soir": ["Retour à Barcelone", "Dîner dans le quartier gothique"]
+      },
+      "jour_4": {
+        "matin": ["Visite du musée Picasso", "Exploration du quartier de La Ribera"],
+        "aprem": ["Déjeuner à La Ribera", "Visite du Musée d'Histoire de Barcelone"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Promenade le long de la plage de Barceloneta"]
+      },
+      "jour_5": {
+        "matin": ["Exploration du quartier de Poblenou", "Visite du Musée du Design de Barcelone"],
+        "aprem": ["Déjeuner à Poblenou", "Balade sur la plage de Bogatell"],
+        "soir": ["Dîner dans un restaurant méditerranéen", "Sortie dans les bars de Poblenou"]
+      },
+      "jour_6": {
+        "matin": ["Visite de la Casa Batlló", "Exploration du Passeig de Gràcia"],
+        "aprem": ["Déjeuner à Passeig de Gràcia", "Visite de la Casa Milà (La Pedrera)"],
+        "soir": ["Dîner dans un restaurant de cuisine fusion", "Promenade le long du Passeig de Gràcia"]
+      },
+      "jour_7": {
+        "matin": ["Excursion à Sitges", "Journée à la plage de Sitges"],
+        "aprem": ["Déjeuner à Sitges", "Exploration du centre-ville de Sitges"],
+        "soir": ["Retour à Barcelone", "Dîner dans le quartier de El Raval"]
+      },
+      "jour_8": {
+        "matin": [
+          "Visite du Palau de la Música Catalana",
+          "Balade dans le quartier de Sant Pere, Santa Caterina i la Ribera"
+        ],
+        "aprem": ["Déjeuner à El Born", "Visite du musée de la Xocolata (musée du chocolat)"],
+        "soir": ["Dîner dans un restaurant de cuisine catalane moderne", "Sortie dans les bars d'El Born"]
+      },
+      "jour_9": {
+        "matin": ["Exploration du quartier de Sants", "Visite du parc de l'Espanya Industrial"],
+        "aprem": ["Déjeuner à Sants", "Visite du stade Camp Nou (Barça)"],
+        "soir": ["Dîner dans un restaurant de tapas authentiques", "Promenade dans le quartier de Les Corts"]
+      },
+      "jour_10": {
+        "matin": ["Visite du Musée national d'art de Catalogne (MNAC)", "Exploration de la colline de Montjuïc"],
+        "aprem": ["Déjeuner près du MNAC", "Visite du jardin botanique de Montjuïc"],
+        "soir": ["Dîner dans un restaurant de fruits de mer en bord de mer", "Balade sur la promenade de Montjuïc"]
+      },
+      "jour_11": {
+        "matin": ["Excursion à Tarragone", "Visite des ruines romaines de Tarragone"],
+        "aprem": ["Déjeuner à Tarragone", "Exploration de la vieille ville de Tarragone"],
+        "soir": ["Retour à Barcelone", "Dîner dans le quartier de Sant Antoni"]
+      },
+      "jour_12": {
+        "matin": ["Visite du musée Joan Miró", "Exploration de la montagne de Montjuïc"],
+        "aprem": ["Déjeuner à Montjuïc", "Visite de la Fondation Mies van der Rohe"],
+        "soir": ["Dîner dans un restaurant de cuisine catalane moderne", "Sortie dans les bars de Poble Sec"]
+      },
+      "jour_13": {
+        "matin": ["Exploration du quartier de Sant Andreu", "Visite du marché de Sant Andreu"],
+        "aprem": ["Déjeuner à Sant Andreu", "Balade le long du parc de la Pegaso"],
+        "soir": ["Dîner dans un restaurant de tapas authentiques", "Sortie dans les bars de Sant Andreu"]
+      },
+      "jour_14": {
+        "matin": ["Excursion à Gérone", "Visite de la vieille ville de Gérone"],
+        "aprem": ["Déjeuner à Gérone", "Exploration de la cathédrale de Gérone"],
+        "soir": ["Retour à Barcelone", "Dîner dans le quartier de Sarrià-Sant Gervasi"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer Barcelone à votre rythme", "Derniers achats de souvenirs"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café catalan traditionnel"],
+        "soir": ["Dîner d'adieu à Barcelone", "Une dernière promenade nocturne sur la plage de Barceloneta"]
+      }
+    }
+  },
+  "vienne": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Visite du château de Schönbrunn", "Balade dans les jardins du château"],
+        "aprem": ["Déjeuner à Schönbrunn", "Visite du zoo de Schönbrunn"],
+        "soir": ["Dîner dans un café traditionnel viennois", "Promenade dans le quartier de Hietzing"]
+      },
+      "jour_2": {
+        "matin": ["Visite du musée Albertina", "Exploration de la place Albertina"],
+        "aprem": ["Déjeuner à proximité de l'Albertina", "Visite de l'Opéra d'État de Vienne"],
+        "soir": ["Dîner dans un restaurant autrichien", "Promenade le long de la Ringstrasse"]
+      },
+      "jour_3": {
+        "matin": ["Visite de la cathédrale Saint-Étienne", "Ascension de la tour de la cathédrale"],
+        "aprem": ["Déjeuner dans le quartier de Stephansplatz", "Exploration du quartier de la Hofburg"],
+        "soir": ["Dîner dans un restaurant de cuisine viennoise", "Concert de musique classique à la Hofburg"]
+      },
+      "jour_4": {
+        "matin": ["Excursion au palais de Belvédère", "Visite de la galerie Belvédère"],
+        "aprem": ["Déjeuner à Belvédère", "Balade dans le quartier de Landstraße"],
+        "soir": ["Dîner dans un restaurant international", "Promenade au Stadtpark"]
+      },
+      "jour_5": {
+        "matin": ["Visite du musée des Beaux-Arts de Vienne", "Exploration du quartier de Neubau"],
+        "aprem": ["Déjeuner à Neubau", "Visite du MuseumsQuartier"],
+        "soir": ["Dîner dans un restaurant autrichien moderne", "Sortie dans les bars de Neubau"]
+      },
+      "jour_6": {
+        "matin": ["Visite du château de Hofburg", "Exploration de la cour impériale"],
+        "aprem": ["Déjeuner à Hofburg", "Visite de la bibliothèque nationale autrichienne"],
+        "soir": [
+          "Dîner dans un restaurant de cuisine autrichienne traditionnelle",
+          "Promenade nocturne à la Michaelerplatz"
+        ]
+      },
+      "jour_7": {
+        "matin": ["Excursion au parc national de Donau-Auen", "Randonnée dans la réserve naturelle"],
+        "aprem": ["Déjeuner près du Danube", "Balade le long du Danube"],
+        "soir": ["Retour à Vienne", "Dîner dans le quartier de Leopoldstadt"]
+      },
+      "jour_8": {
+        "matin": ["Visite du musée Sigmund Freud", "Exploration du quartier de Alsergrund"],
+        "aprem": ["Déjeuner à Alsergrund", "Visite du cimetière central de Vienne"],
+        "soir": ["Dîner dans un café historique viennois", "Promenade dans le quartier de Josefstadt"]
+      },
+      "jour_9": {
+        "matin": ["Exploration du quartier de Ottakring", "Visite de l'église Saint-Antoine de Padoue"],
+        "aprem": ["Déjeuner à Ottakring", "Balade dans le parc Wilhelminenberg"],
+        "soir": ["Dîner dans un restaurant autrichien", "Sortie dans les bars de Ottakring"]
+      },
+      "jour_10": {
+        "matin": ["Visite du musée d'histoire de l'art de Vienne", "Exploration du quartier de Mariahilf"],
+        "aprem": ["Déjeuner à Mariahilf", "Shopping sur la Mariahilfer Straße"],
+        "soir": ["Dîner dans un restaurant international", "Promenade le long du canal du Danube"]
+      },
+      "jour_11": {
+        "matin": ["Excursion au château de Kreuzenstein", "Visite du château médiéval"],
+        "aprem": ["Déjeuner près du château", "Balade dans la ville de Korneuburg"],
+        "soir": ["Retour à Vienne", "Dîner dans le quartier de Donaustadt"]
+      },
+      "jour_12": {
+        "matin": ["Visite du musée des sciences de la nature de Vienne", "Exploration du quartier de Wieden"],
+        "aprem": ["Déjeuner à Wieden", "Visite du marché Naschmarkt"],
+        "soir": ["Dîner dans un restaurant autrichien moderne", "Sortie dans les bars de Wieden"]
+      },
+      "jour_13": {
+        "matin": ["Exploration du quartier de Simmering", "Visite de l'église Saint-Étienne de Simmering"],
+        "aprem": ["Déjeuner à Simmering", "Balade dans le parc Kurpark Oberlaa"],
+        "soir": ["Dîner dans un restaurant autrichien", "Sortie dans les bars de Simmering"]
+      },
+      "jour_14": {
+        "matin": ["Excursion à Bratislava (Slovaquie)", "Visite de la vieille ville de Bratislava"],
+        "aprem": ["Déjeuner à Bratislava", "Exploration du château de Bratislava"],
+        "soir": ["Retour à Vienne", "Dîner dans le quartier de Favoriten"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer Vienne à votre rythme", "Derniers achats de souvenirs"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café viennois traditionnel"],
+        "soir": ["Dîner d'adieu à Vienne", "Une dernière promenade nocturne le long du Danube"]
+      }
+    }
+  },
+  "amsterdam": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Visite du Rijksmuseum", "Promenade dans le Museumplein"],
+        "aprem": ["Déjeuner à Museumplein", "Visite du Musée Van Gogh"],
+        "soir": ["Dîner le long des canaux", "Promenade en bateau dans les canaux d'Amsterdam"]
+      },
+      "jour_2": {
+        "matin": ["Visite de la Maison d'Anne Frank", "Balade dans le quartier de Jordaan"],
+        "aprem": ["Déjeuner à Jordaan", "Croisière sur les canaux"],
+        "soir": ["Dîner dans un restaurant néerlandais", "Promenade nocturne le long de Prinsengracht"]
+      },
+      "jour_3": {
+        "matin": ["Excursion à Zaanse Schans", "Visite des moulins à vent"],
+        "aprem": ["Déjeuner à Zaanse Schans", "Exploration du musée Zaans"],
+        "soir": ["Retour à Amsterdam", "Dîner dans le quartier de De Pijp"]
+      },
+      "jour_4": {
+        "matin": ["Visite du musée Stedelijk", "Exploration du quartier des musées"],
+        "aprem": ["Déjeuner à Museumplein", "Visite de la maison de Rembrandt"],
+        "soir": ["Dîner dans un restaurant international", "Promenade au Vondelpark"]
+      },
+      "jour_5": {
+        "matin": ["Exploration du quartier de De Wallen (quartier rouge)", "Visite de la Oude Kerk"],
+        "aprem": ["Déjeuner à De Wallen", "Promenade en bateau sur la rivière Amstel"],
+        "soir": ["Dîner dans un café brasserie", "Sortie dans les bars de De Wallen"]
+      },
+      "jour_6": {
+        "matin": ["Visite de l'Hermitage Amsterdam", "Balade le long de l'Amstel"],
+        "aprem": ["Déjeuner près de l'Hermitage", "Visite du musée de la marine royale néerlandaise"],
+        "soir": ["Dîner dans un restaurant néerlandais", "Promenade dans le quartier d'Amsterdam-Oost"]
+      },
+      "jour_7": {
+        "matin": ["Excursion à Keukenhof (en saison des tulipes)", "Exploration des jardins de tulipes"],
+        "aprem": ["Déjeuner à Keukenhof", "Visite du château de Keukenhof"],
+        "soir": ["Retour à Amsterdam", "Dîner dans le quartier de Westerpark"]
+      },
+      "jour_8": {
+        "matin": ["Visite du NEMO Science Museum", "Balade le long du port d'Amsterdam"],
+        "aprem": ["Déjeuner près du NEMO", "Visite du musée de la marine de l'Amirauté"],
+        "soir": ["Dîner dans un restaurant international", "Promenade dans le quartier de Noord"]
+      },
+      "jour_9": {
+        "matin": ["Exploration du quartier de Plantage", "Visite du zoo d'Artis"],
+        "aprem": ["Déjeuner à Plantage", "Visite du musée Micropia"],
+        "soir": ["Dîner dans un restaurant néerlandais", "Sortie dans les bars de Plantage"]
+      },
+      "jour_10": {
+        "matin": ["Visite du musée de l'Ermitage d'Amsterdam", "Balade le long de la rivière IJ"],
+        "aprem": ["Déjeuner près de l'Ermitage", "Visite de la tour A'DAM Lookout"],
+        "soir": [
+          "Dîner dans un restaurant international",
+          "Promenade le long de la plage artificielle de Blijburg aan Zee"
+        ]
+      },
+      "jour_11": {
+        "matin": ["Excursion à Haarlem", "Visite de la ville historique"],
+        "aprem": ["Déjeuner à Haarlem", "Exploration du musée Frans Hals"],
+        "soir": ["Retour à Amsterdam", "Dîner dans le quartier de De Baarsjes"]
+      },
+      "jour_12": {
+        "matin": ["Visite du musée de la maison de Rembrandt", "Balade dans le quartier de Plantage"],
+        "aprem": ["Déjeuner à Plantage", "Visite du jardin botanique d'Amsterdam"],
+        "soir": ["Dîner dans un café brasserie", "Sortie dans les bars de De Pijp"]
+      },
+      "jour_13": {
+        "matin": ["Exploration du quartier de Oud-West", "Visite du musée Moco"],
+        "aprem": ["Déjeuner à Oud-West", "Balade dans le parc Vondelpark"],
+        "soir": ["Dîner dans un restaurant international", "Promenade dans le quartier de Oud-Zuid"]
+      },
+      "jour_14": {
+        "matin": ["Excursion à Utrecht", "Visite de la vieille ville d'Utrecht"],
+        "aprem": ["Déjeuner à Utrecht", "Exploration du musée Railway"],
+        "soir": ["Retour à Amsterdam", "Dîner dans le quartier de De Pijp"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer Amsterdam à votre rythme", "Derniers achats de souvenirs"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café hollandais traditionnel"],
+        "soir": ["Dîner d'adieu à Amsterdam", "Une dernière promenade nocturne le long des canaux"]
+      }
+    }
+  },
+  "prague": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Visite du château de Prague", "Exploration de la cathédrale Saint-Guy"],
+        "aprem": ["Déjeuner dans le quartier de Hradčany", "Visite du Palais royal de Prague"],
+        "soir": ["Dîner dans un restaurant tchèque traditionnel", "Promenade le long de la Vltava"]
+      },
+      "jour_2": {
+        "matin": ["Balade dans la vieille ville de Prague", "Visite de l'horloge astronomique"],
+        "aprem": ["Déjeuner sur la place de la Vieille Ville", "Exploration du quartier juif"],
+        "soir": ["Dîner dans un restaurant historique", "Promenade nocturne sur le pont Charles"]
+      },
+      "jour_3": {
+        "matin": ["Visite du monastère de Strahov", "Balade dans les jardins du monastère"],
+        "aprem": ["Déjeuner près du monastère", "Visite du musée Franz Kafka"],
+        "soir": ["Dîner dans un restaurant panoramique", "Vue nocturne depuis la tour de Petřín"]
+      },
+      "jour_4": {
+        "matin": ["Excursion au château de Karlštejn", "Visite du château médiéval"],
+        "aprem": ["Déjeuner à Karlštejn", "Randonnée dans la campagne tchèque"],
+        "soir": ["Retour à Prague", "Dîner dans le quartier de Malá Strana"]
+      },
+      "jour_5": {
+        "matin": ["Visite du musée national de Prague", "Promenade sur la place Venceslas"],
+        "aprem": ["Déjeuner à Nové Město", "Visite de la Maison dansante"],
+        "soir": ["Dîner dans un restaurant tchèque moderne", "Sortie dans les bars de Žižkov"]
+      },
+      "jour_6": {
+        "matin": ["Exploration du quartier de Vinohrady", "Visite de l'église Saint-Ludmila"],
+        "aprem": ["Déjeuner à Vinohrady", "Visite du musée Mucha"],
+        "soir": ["Dîner dans un restaurant tchèque traditionnel", "Promenade le long de la Vltava"]
+      },
+      "jour_7": {
+        "matin": ["Excursion à Kutná Hora", "Visite de l'ossuaire de Sedlec"],
+        "aprem": ["Déjeuner à Kutná Hora", "Exploration de la cathédrale Sainte-Barbe"],
+        "soir": ["Retour à Prague", "Dîner dans le quartier de Josefov"]
+      },
+      "jour_8": {
+        "matin": ["Visite du musée de la Communauté tchèque", "Balade dans le quartier de Libeň"],
+        "aprem": ["Déjeuner à Libeň", "Visite du musée de l'armée tchèque"],
+        "soir": ["Dîner dans un restaurant tchèque moderne", "Promenade nocturne sur la place de la Vieille Ville"]
+      },
+      "jour_9": {
+        "matin": ["Exploration du quartier de Holešovice", "Visite du musée d'art contemporain DOX"],
+        "aprem": ["Déjeuner à Holešovice", "Balade le long de la Vltava"],
+        "soir": ["Dîner dans un restaurant tchèque traditionnel", "Sortie dans les bars de Holešovice"]
+      },
+      "jour_10": {
+        "matin": ["Visite du musée Kampa", "Balade sur l'île de Kampa"],
+        "aprem": ["Déjeuner sur l'île de Kampa", "Visite du musée de la torture"],
+        "soir": ["Dîner dans un restaurant tchèque moderne", "Promenade nocturne sur le pont Charles"]
+      },
+      "jour_11": {
+        "matin": ["Excursion à Český Krumlov", "Visite du château de Český Krumlov"],
+        "aprem": ["Déjeuner à Český Krumlov", "Exploration de la vieille ville"],
+        "soir": ["Retour à Prague", "Dîner dans le quartier de Malá Strana"]
+      },
+      "jour_12": {
+        "matin": ["Visite du musée Mucha", "Balade dans le quartier de Smíchov"],
+        "aprem": ["Déjeuner à Smíchov", "Visite du jardin botanique de Prague"],
+        "soir": ["Dîner dans un restaurant tchèque traditionnel", "Promenade le long de la Vltava"]
+      },
+      "jour_13": {
+        "matin": ["Exploration du quartier de Vyšehrad", "Visite de la forteresse de Vyšehrad"],
+        "aprem": ["Déjeuner à Vyšehrad", "Balade dans le parc Folimanka"],
+        "soir": ["Dîner dans un restaurant tchèque moderne", "Sortie dans les bars de Vinohrady"]
+      },
+      "jour_14": {
+        "matin": ["Visite du musée national technique", "Balade dans le quartier de Holesovice"],
+        "aprem": ["Déjeuner à Holesovice", "Visite du musée de l'aviation de Prague"],
+        "soir": ["Retour à Prague", "Dîner dans le quartier de Karlín"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer Prague à votre rythme", "Derniers achats de souvenirs"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café tchèque traditionnel"],
+        "soir": ["Dîner d'adieu à Prague", "Une dernière promenade nocturne sur la place de la Vieille Ville"]
+      }
+    }
+  },
+  "lisbonne": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Visite du quartier de Belém", "Découverte de la tour de Belém"],
+        "aprem": ["Déjeuner à Belém", "Visite du monastère des Hiéronymites"],
+        "soir": ["Dîner avec vue sur le Tage", "Promenade le long de la promenade maritime"]
+      },
+      "jour_2": {
+        "matin": ["Exploration du quartier de Baixa", "Visite de la place du Commerce"],
+        "aprem": ["Déjeuner à Baixa", "Visite de l'ascenseur de Santa Justa"],
+        "soir": ["Dîner dans un restaurant de Fado", "Spectacle de Fado traditionnel"]
+      },
+      "jour_3": {
+        "matin": ["Visite du château de São Jorge", "Balade dans l'Alfama"],
+        "aprem": ["Déjeuner dans l'Alfama", "Exploration des ruelles étroites"],
+        "soir": ["Dîner dans un restaurant typique", "Promenade nocturne dans l'Alfama"]
+      },
+      "jour_4": {
+        "matin": ["Excursion à Sintra", "Visite du palais national de Sintra"],
+        "aprem": ["Déjeuner à Sintra", "Exploration du parc de la Pena"],
+        "soir": ["Retour à Lisbonne", "Dîner dans le quartier de Bairro Alto"]
+      },
+      "jour_5": {
+        "matin": ["Visite du musée national de l'Azulejo", "Promenade dans le quartier d'Estrela"],
+        "aprem": ["Déjeuner à Estrela", "Visite de la basilique d'Estrela"],
+        "soir": ["Dîner avec vue panoramique", "Promenade le long du pont du 25 avril"]
+      },
+      "jour_6": {
+        "matin": ["Exploration du quartier de Bela Vista", "Visite de l'Oceanário de Lisbonne"],
+        "aprem": ["Déjeuner près de l'Oceanário", "Visite du Parc des Nations"],
+        "soir": ["Dîner dans un restaurant international", "Sortie dans les bars de Bairro Alto"]
+      },
+      "jour_7": {
+        "matin": ["Excursion à Cascais", "Balade sur la promenade de Cascais"],
+        "aprem": ["Déjeuner à Cascais", "Visite de la Boca do Inferno"],
+        "soir": ["Retour à Lisbonne", "Dîner dans le quartier de Chiado"]
+      },
+      "jour_8": {
+        "matin": ["Visite du musée Calouste Gulbenkian", "Promenade dans le parc Gulbenkian"],
+        "aprem": ["Déjeuner près du musée", "Visite du jardin botanique d'Ajuda"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Promenade le long de la côte de Lisbonne"]
+      },
+      "jour_9": {
+        "matin": ["Exploration du quartier de Mouraria", "Visite de la Casa do Fado"],
+        "aprem": ["Déjeuner à Mouraria", "Balade dans le quartier de Graça"],
+        "soir": ["Dîner dans un restaurant de Fado", "Spectacle de Fado traditionnel"]
+      },
+      "jour_10": {
+        "matin": ["Visite du musée du Fado", "Promenade dans le quartier d'Alcântara"],
+        "aprem": ["Déjeuner à Alcântara", "Visite du LX Factory"],
+        "soir": ["Dîner dans un restaurant typique", "Promenade le long de la rivière Tagus"]
+      },
+      "jour_11": {
+        "matin": ["Excursion à Évora", "Visite de la vieille ville d'Évora"],
+        "aprem": ["Déjeuner à Évora", "Exploration du temple de Diane"],
+        "soir": ["Retour à Lisbonne", "Dîner dans le quartier de Alfama"]
+      },
+      "jour_12": {
+        "matin": ["Visite du musée du design et de la mode", "Promenade dans le quartier d'Amoreiras"],
+        "aprem": ["Déjeuner à Amoreiras", "Visite du parc Eduardo VII"],
+        "soir": ["Dîner avec vue panoramique", "Promenade le long de l'Avenida da Liberdade"]
+      },
+      "jour_13": {
+        "matin": ["Exploration du quartier de Santos", "Visite du musée d'art ancien"],
+        "aprem": ["Déjeuner à Santos", "Balade le long du fleuve Tagus"],
+        "soir": ["Dîner dans un restaurant international", "Sortie dans les bars de Bairro Alto"]
+      },
+      "jour_14": {
+        "matin": ["Excursion à Setúbal", "Visite du parc naturel d'Arrábida"],
+        "aprem": ["Déjeuner à Setúbal", "Détente sur la plage de Galápos"],
+        "soir": ["Retour à Lisbonne", "Dîner dans le quartier de Cais do Sodré"]
+      },
+      "jour_15": {
+        "matin": ["Journée libre pour explorer Lisbonne à votre rythme", "Derniers achats de souvenirs"],
+        "aprem": ["Derniers achats de souvenirs", "Visite d'un café traditionnel"],
+        "soir": ["Dîner d'adieu à Lisbonne", "Une dernière promenade nocturne le long de la promenade maritime"]
+      }
+    }
+  },
+  "cap_d_agde": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Arrivée au Cap d'Agde", "Installation à l'hôtel"],
+        "aprem": ["Première découverte de la plage du Cap d'Agde", "Baignade et détente"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Promenade nocturne sur le front de mer"]
+      },
+      "jour_2": {
+        "matin": ["Excursion au parc aquatique Aqualand", "Journée de glisse et de divertissement"],
+        "aprem": ["Déjeuner près du parc", "Retour à la plage pour se détendre"],
+        "soir": ["Dîner dans un restaurant méditerranéen", "Spectacle de musique en direct"]
+      },
+      "jour_3": {
+        "matin": ["Visite du port du Cap d'Agde", "Promenade le long des quais"],
+        "aprem": ["Déjeuner près du port", "Balade en bateau dans la baie"],
+        "soir": ["Dîner dans un restaurant de cuisine locale", "Sortie dans les bars du port"]
+      },
+      "jour_4": {
+        "matin": ["Exploration du parc naturel régional de la Narbonnaise en Méditerranée", "Randonnée dans la nature"],
+        "aprem": ["Déjeuner près du parc", "Visite des étangs et de la faune locale"],
+        "soir": ["Dîner dans un restaurant méditerranéen", "Soirée de détente"]
+      },
+      "jour_5": {
+        "matin": ["Excursion à la plage naturiste", "Détente au soleil"],
+        "aprem": ["Déjeuner près de la plage", "Exploration de la réserve naturelle nationale de Bagnas"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Promenade nocturne sur la plage"]
+      },
+      "jour_6": {
+        "matin": ["Visite du musée de l'Éphèbe", "Découverte de l'histoire maritime"],
+        "aprem": ["Déjeuner près du musée", "Balade dans le vieux village d'Agde"],
+        "soir": ["Dîner dans un restaurant gastronomique", "Spectacle culturel"]
+      },
+      "jour_7": {
+        "matin": ["Excursion en vélo le long du Canal du Midi", "Découverte des écluses"],
+        "aprem": ["Déjeuner près du canal", "Visite du village de Marseillan"],
+        "soir": ["Dîner dans un restaurant de cuisine locale", "Sortie dans les bars du village"]
+      },
+      "jour_8": {
+        "matin": ["Visite du parc de loisirs Captain Jako", "Divertissement en famille"],
+        "aprem": ["Déjeuner près du parc", "Après-midi de détente à la plage"],
+        "soir": ["Dîner dans un restaurant méditerranéen", "Spectacle en plein air"]
+      },
+      "jour_9": {
+        "matin": ["Excursion au Mont Saint-Loup", "Randonnée jusqu'au sommet"],
+        "aprem": ["Déjeuner près du mont", "Détente sur la plage ou activités nautiques"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Promenade nocturne sur la plage"]
+      },
+      "jour_10": {
+        "matin": ["Visite du parc zoologique du Cap d'Agde", "Rencontre avec la faune"],
+        "aprem": ["Déjeuner près du parc", "Temps libre pour explorer le Cap d'Agde"],
+        "soir": ["Dîner dans un restaurant de cuisine locale", "Soirée de détente"]
+      },
+      "jour_11": {
+        "matin": ["Excursion en kayak sur la rivière Hérault", "Découverte de la nature"],
+        "aprem": ["Déjeuner près de la rivière", "Visite de la grotte de la Clamouse"],
+        "soir": ["Retour au Cap d'Agde", "Dîner dans un restaurant méditerranéen"]
+      },
+      "jour_12": {
+        "matin": ["Visite du jardin méditerranéen du fort de Brescou", "Balade parmi les plantes"],
+        "aprem": ["Déjeuner près du fort", "Excursion en bateau jusqu'à l'île de Brescou"],
+        "soir": ["Dîner dans un restaurant gastronomique", "Spectacle culturel"]
+      },
+      "jour_13": {
+        "matin": ["Excursion à Sète", "Découverte de la ville portuaire"],
+        "aprem": ["Déjeuner à Sète", "Visite du musée Paul Valéry"],
+        "soir": ["Retour au Cap d'Agde", "Dîner dans un restaurant de fruits de mer"]
+      },
+      "jour_14": {
+        "matin": ["Journée libre pour explorer le Cap d'Agde à votre rythme", "Activités au choix"],
+        "aprem": ["Derniers achats de souvenirs", "Détente à la plage"],
+        "soir": ["Dîner d'adieu au Cap d'Agde", "Une dernière promenade nocturne sur le front de mer"]
+      },
+      "jour_15": {
+        "matin": ["Départ du Cap d'Agde", "Transfert à l'aéroport"],
+        "aprem": ["Vol de retour", "Fin du voyage"]
+      }
+    }
+  },
+  "caylus": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Arrivée à Caylus", "Installation à l'hôtel"],
+        "aprem": ["Première découverte du village de Caylus", "Promenade dans les rues pittoresques"],
+        "soir": ["Dîner dans un restaurant local", "Vue nocturne du village"]
+      },
+      "jour_2": {
+        "matin": ["Visite du Château de Caylus", "Exploration de l'histoire du château"],
+        "aprem": ["Déjeuner près du château", "Balade autour de la forteresse"],
+        "soir": ["Dîner dans un restaurant de cuisine locale", "Spectacle culturel"]
+      },
+      "jour_3": {
+        "matin": ["Excursion à la grotte de Pech Merle", "Découverte des peintures préhistoriques"],
+        "aprem": ["Déjeuner près de la grotte", "Visite du Musée de la Préhistoire"],
+        "soir": ["Dîner dans un restaurant de spécialités régionales", "Soirée de détente"]
+      },
+      "jour_4": {
+        "matin": ["Visite du Moulin de Négrelat", "Exploration du moulin à vent"],
+        "aprem": ["Déjeuner près du moulin", "Balade le long de la rivière Bonnette"],
+        "soir": ["Dîner dans un restaurant local", "Promenade nocturne près de la rivière"]
+      },
+      "jour_5": {
+        "matin": ["Excursion au Lac de Parisot", "Baignade et pique-nique au bord du lac"],
+        "aprem": ["Après-midi de détente au lac", "Activités nautiques en option"],
+        "soir": ["Dîner au bord du lac", "Coucher de soleil paisible"]
+      },
+      "jour_6": {
+        "matin": ["Visite de l'Église Saint-Laurent", "Exploration de l'architecture religieuse"],
+        "aprem": ["Déjeuner près de l'église", "Balade dans le jardin de l'Évêché"],
+        "soir": ["Dîner dans un restaurant de cuisine locale", "Spectacle culturel"]
+      },
+      "jour_7": {
+        "matin": ["Excursion au Château de Cas", "Découverte du château médiéval"],
+        "aprem": ["Déjeuner près du château", "Randonnée dans la campagne environnante"],
+        "soir": ["Dîner dans un restaurant local", "Soirée de détente"]
+      },
+      "jour_8": {
+        "matin": ["Visite du Musée du Chapeau", "Exploration de l'histoire de la chapellerie"],
+        "aprem": ["Déjeuner près du musée", "Balade dans le quartier des artisans"],
+        "soir": ["Dîner dans un restaurant de spécialités régionales", "Spectacle culturel"]
+      },
+      "jour_9": {
+        "matin": ["Excursion à Saint-Antonin-Noble-Val", "Découverte de la ville voisine"],
+        "aprem": ["Déjeuner à Saint-Antonin-Noble-Val", "Visite du marché local"],
+        "soir": ["Retour à Caylus", "Dîner dans un restaurant local"]
+      },
+      "jour_10": {
+        "matin": ["Visite du Jardin des Paradis", "Exploration des jardins exotiques"],
+        "aprem": ["Déjeuner près du jardin", "Promenade dans le parc du château"],
+        "soir": ["Dîner dans un restaurant de cuisine locale", "Soirée de détente"]
+      },
+      "jour_11": {
+        "matin": ["Excursion à la Cascade de Bécanel", "Randonnée jusqu'à la cascade"],
+        "aprem": ["Déjeuner près de la cascade", "Détente au bord de l'eau"],
+        "soir": ["Retour à Caylus", "Dîner dans un restaurant local"]
+      },
+      "jour_12": {
+        "matin": ["Visite du Musée du Cayla", "Exploration des expositions sur la vie rurale"],
+        "aprem": ["Déjeuner près du musée", "Balade dans la campagne environnante"],
+        "soir": ["Dîner dans un restaurant de spécialités régionales", "Spectacle culturel"]
+      },
+      "jour_13": {
+        "matin": ["Excursion au Château de Penne", "Découverte du château perché"],
+        "aprem": ["Déjeuner près du château", "Balade dans les ruelles de Penne"],
+        "soir": ["Retour à Caylus", "Dîner dans un restaurant local"]
+      },
+      "jour_14": {
+        "matin": ["Journée libre pour explorer Caylus à votre rythme", "Activités au choix"],
+        "aprem": ["Derniers achats de souvenirs", "Détente dans le village"],
+        "soir": ["Dîner d'adieu à Caylus", "Une dernière promenade nocturne"]
+      },
+      "jour_15": {
+        "matin": ["Départ de Caylus", "Transfert à l'aéroport le plus proche"],
+        "aprem": ["Vol de retour", "Fin du voyage"]
+      }
+    }
+  },
+  "cuges_les_pins": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Arrivée à Cuges-les-Pins", "Installation à l'hébergement"],
+        "aprem": ["Première exploration du village", "Promenade dans le centre historique"],
+        "soir": ["Dîner dans un restaurant local", "Détente en soirée"]
+      },
+      "jour_2": {
+        "matin": ["Visite du Domaine de l'Olivette", "Découverte de la production d'huile d'olive"],
+        "aprem": ["Déjeuner près du domaine", "Randonnée dans les collines environnantes"],
+        "soir": ["Dîner dans un restaurant provençal", "Spectacle culturel"]
+      },
+      "jour_3": {
+        "matin": ["Excursion au Parc du Saint-Pilon", "Randonnée jusqu'au sommet"],
+        "aprem": ["Déjeuner près du parc", "Détente en pleine nature"],
+        "soir": ["Dîner dans un restaurant local", "Promenade nocturne"]
+      },
+      "jour_4": {
+        "matin": ["Visite du Château de Roquefort-la-Bédoule", "Exploration du château médiéval"],
+        "aprem": ["Déjeuner près du château", "Balade dans les jardins"],
+        "soir": ["Dîner dans un restaurant provençal", "Spectacle culturel"]
+      },
+      "jour_5": {
+        "matin": ["Excursion à la plage de Cassis", "Journée de détente au bord de la mer"],
+        "aprem": ["Déjeuner près de la plage", "Exploration des Calanques de Cassis"],
+        "soir": ["Dîner dans un restaurant de fruits de mer à Cassis", "Coucher de soleil sur la plage"]
+      },
+      "jour_6": {
+        "matin": ["Visite de la Cité de l'Art Santonnier", "Découverte des santons provençaux"],
+        "aprem": ["Déjeuner près de la cité", "Balade dans les ateliers d'artisans"],
+        "soir": ["Dîner dans un restaurant local", "Spectacle culturel"]
+      },
+      "jour_7": {
+        "matin": ["Excursion au Massif de la Sainte-Baume", "Randonnée dans la forêt"],
+        "aprem": ["Déjeuner près du massif", "Visite de la grotte de Sainte-Baume"],
+        "soir": ["Retour à Cuges-les-Pins", "Dîner dans un restaurant provençal"]
+      },
+      "jour_8": {
+        "matin": ["Visite du Musée de la Mine à Gréasque", "Exploration de l'histoire minière"],
+        "aprem": ["Déjeuner près du musée", "Balade dans le village de Gréasque"],
+        "soir": ["Dîner dans un restaurant local", "Spectacle culturel"]
+      },
+      "jour_9": {
+        "matin": ["Excursion à Marseille", "Découverte de la ville portuaire"],
+        "aprem": ["Déjeuner à Marseille", "Visite du Vieux-Port et du Panier"],
+        "soir": ["Retour à Cuges-les-Pins", "Dîner dans un restaurant provençal"]
+      },
+      "jour_10": {
+        "matin": ["Visite du Parc des Cytises", "Exploration des jardins botaniques"],
+        "aprem": ["Déjeuner près du parc", "Balade dans le parc"],
+        "soir": ["Dîner dans un restaurant local", "Soirée de détente"]
+      },
+      "jour_11": {
+        "matin": ["Excursion au Lac de Cuges-les-Pins", "Baignade et pique-nique au bord du lac"],
+        "aprem": ["Après-midi de détente au lac", "Activités nautiques en option"],
+        "soir": ["Dîner au bord du lac", "Coucher de soleil paisible"]
+      },
+      "jour_12": {
+        "matin": ["Visite du Moulin de Redon", "Exploration du moulin à vent"],
+        "aprem": ["Déjeuner près du moulin", "Balade le long de la rivière"],
+        "soir": ["Dîner dans un restaurant local", "Promenade nocturne près de la rivière"]
+      },
+      "jour_13": {
+        "matin": ["Excursion au Massif du Garlaban", "Randonnée dans les collines"],
+        "aprem": ["Déjeuner près du massif", "Visite de la Maison de Pagnol"],
+        "soir": ["Retour à Cuges-les-Pins", "Dîner dans un restaurant provençal"]
+      },
+      "jour_14": {
+        "matin": ["Journée libre pour explorer Cuges-les-Pins à votre rythme", "Activités au choix"],
+        "aprem": ["Derniers achats de souvenirs", "Détente dans le village"],
+        "soir": ["Dîner d'adieu à Cuges-les-Pins", "Une dernière promenade nocturne"]
+      },
+      "jour_15": {
+        "matin": ["Départ de Cuges-les-Pins", "Transfert à l'aéroport le plus proche"],
+        "aprem": ["Vol de retour", "Fin du voyage"]
+      }
+    }
+  },
+  "marseille": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Arrivée à Marseille", "Installation à l'hôtel"],
+        "aprem": ["Première exploration du Vieux-Port", "Promenade sur la Canebière"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Vue nocturne sur le port"]
+      },
+      "jour_2": {
+        "matin": [
+          "Visite du Mucem (Musée des Civilisations de l'Europe et de la Méditerranée)",
+          "Exploration des expositions"
+        ],
+        "aprem": ["Déjeuner près du Mucem", "Balade dans le quartier du Panier"],
+        "soir": ["Dîner dans un restaurant provençal", "Spectacle culturel"]
+      },
+      "jour_3": {
+        "matin": ["Excursion au Château d'If", "Visite de la forteresse"],
+        "aprem": ["Déjeuner à Château d'If", "Plage et détente"],
+        "soir": ["Retour à Marseille", "Dîner dans un restaurant local"]
+      },
+      "jour_4": {
+        "matin": ["Visite de la Basilique Notre-Dame de la Garde", "Vue panoramique sur la ville"],
+        "aprem": ["Déjeuner près de la basilique", "Exploration du quartier d'Endoume"],
+        "soir": ["Dîner dans un restaurant avec vue sur la mer", "Promenade en soirée"]
+      },
+      "jour_5": {
+        "matin": ["Excursion aux Calanques de Marseille", "Randonnée dans les calanques"],
+        "aprem": ["Pique-nique dans les calanques", "Baignade et détente"],
+        "soir": ["Retour à Marseille", "Dîner dans un restaurant local"]
+      },
+      "jour_6": {
+        "matin": ["Visite du Quartier du Cours Julien", "Exploration des boutiques et cafés"],
+        "aprem": ["Déjeuner dans le quartier", "Balade dans le Parc Longchamp"],
+        "soir": ["Dîner dans un restaurant local", "Soirée de détente"]
+      },
+      "jour_7": {
+        "matin": ["Excursion à Cassis", "Découverte de la ville pittoresque"],
+        "aprem": ["Déjeuner à Cassis", "Excursion en bateau dans les Calanques"],
+        "soir": ["Retour à Marseille", "Dîner dans un restaurant de fruits de mer"]
+      },
+      "jour_8": {
+        "matin": ["Visite du Fort Saint-Nicolas", "Exploration de l'histoire militaire"],
+        "aprem": ["Déjeuner près du fort", "Plage des Catalans et baignade"],
+        "soir": ["Dîner dans un restaurant local", "Promenade nocturne sur la plage"]
+      },
+      "jour_9": {
+        "matin": ["Excursion à Aix-en-Provence", "Découverte de la ville thermale"],
+        "aprem": ["Déjeuner à Aix-en-Provence", "Visite du Cours Mirabeau et des fontaines"],
+        "soir": ["Retour à Marseille", "Dîner dans un restaurant provençal"]
+      },
+      "jour_10": {
+        "matin": ["Visite du Musée Cantini", "Exploration de l'art moderne"],
+        "aprem": ["Déjeuner près du musée", "Balade dans le quartier de la Joliette"],
+        "soir": ["Dîner dans un restaurant local", "Spectacle culturel"]
+      },
+      "jour_11": {
+        "matin": ["Excursion à la Vallée de l'Huveaune", "Randonnée dans la nature"],
+        "aprem": ["Déjeuner près de la vallée", "Visite du village de La Treille"],
+        "soir": ["Retour à Marseille", "Dîner dans un restaurant de cuisine locale"]
+      },
+      "jour_12": {
+        "matin": ["Visite du Palais Longchamp", "Exploration du musée des Beaux-Arts"],
+        "aprem": ["Déjeuner près du palais", "Balade dans le parc Longchamp"],
+        "soir": ["Dîner dans un restaurant local", "Soirée de détente"]
+      },
+      "jour_13": {
+        "matin": ["Excursion à l'île du Frioul", "Découverte de l'île et de ses plages"],
+        "aprem": ["Déjeuner sur l'île", "Randonnée à travers la nature"],
+        "soir": ["Retour à Marseille", "Dîner dans un restaurant de fruits de mer"]
+      },
+      "jour_14": {
+        "matin": ["Journée libre pour explorer Marseille à votre rythme", "Activités au choix"],
+        "aprem": ["Derniers achats de souvenirs", "Détente dans la ville"],
+        "soir": ["Dîner d'adieu à Marseille", "Une dernière promenade nocturne"]
+      },
+      "jour_15": {
+        "matin": ["Départ de Marseille", "Transfert à l'aéroport le plus proche"],
+        "aprem": ["Vol de retour", "Fin du voyage"]
+      }
+    }
+  },
+  "cape_town": {
+    "itineraire_15_jours": {
+      "jour_1": {
+        "matin": ["Arrivée au Cap", "Installation à l'hôtel"],
+        "aprem": ["Première exploration du V&A Waterfront", "Promenade le long du port"],
+        "soir": ["Dîner dans un restaurant au bord de l'eau", "Vue nocturne sur la montagne de la Table"]
+      },
+      "jour_2": {
+        "matin": ["Ascension de la montagne de la Table", "Randonnée jusqu'au sommet"],
+        "aprem": ["Déjeuner au sommet de la montagne", "Découverte de la faune et de la flore"],
+        "soir": ["Dîner dans un restaurant avec vue sur la ville", "Coucher de soleil sur la montagne"]
+      },
+      "jour_3": {
+        "matin": ["Visite du jardin botanique de Kirstenbosch", "Exploration des jardins"],
+        "aprem": ["Déjeuner près du jardin", "Balade dans la forêt de Boomslang"],
+        "soir": ["Dîner dans un restaurant local", "Spectacle culturel"]
+      },
+      "jour_4": {
+        "matin": ["Excursion à Robben Island", "Visite de l'ancienne prison"],
+        "aprem": ["Déjeuner à V&A Waterfront", "Temps libre pour shopping"],
+        "soir": ["Dîner dans un restaurant de fruits de mer", "Promenade nocturne au bord de l'eau"]
+      },
+      "jour_5": {
+        "matin": ["Exploration du quartier historique de Bo-Kaap", "Découverte des maisons colorées"],
+        "aprem": ["Déjeuner dans un restaurant local", "Visite du District Six Museum"],
+        "soir": ["Dîner dans un restaurant sud-africain", "Spectacle culturel"]
+      },
+      "jour_6": {
+        "matin": ["Excursion à la péninsule du Cap", "Visite du Cap de Bonne-Espérance"],
+        "aprem": ["Déjeuner à Simon's Town", "Rencontre avec les pingouins à Boulders Beach"],
+        "soir": ["Retour au Cap", "Dîner dans un restaurant avec vue sur l'océan"]
+      },
+      "jour_7": {
+        "matin": ["Visite du marché de Hout Bay", "Dégustation de produits locaux"],
+        "aprem": ["Excursion en bateau jusqu'à Seal Island", "Observation des phoques"],
+        "soir": ["Dîner dans un restaurant de fruits de mer à Hout Bay", "Coucher de soleil sur la plage"]
+      },
+      "jour_8": {
+        "matin": ["Randonnée à Lion's Head", "Ascension du sommet"],
+        "aprem": ["Déjeuner près de Lion's Head", "Vue panoramique sur le Cap"],
+        "soir": ["Dîner dans un restaurant local", "Promenade en soirée"]
+      },
+      "jour_9": {
+        "matin": ["Excursion à Stellenbosch", "Visite de domaines viticoles"],
+        "aprem": ["Déjeuner à Stellenbosch", "Dégustation de vins"],
+        "soir": ["Retour au Cap", "Dîner dans un restaurant gastronomique"]
+      },
+      "jour_10": {
+        "matin": ["Visite du Two Oceans Aquarium", "Découverte de la vie marine"],
+        "aprem": ["Déjeuner près de l'aquarium", "Exploration du quartier de Waterfront"],
+        "soir": ["Dîner dans un restaurant local", "Spectacle culturel"]
+      },
+      "jour_11": {
+        "matin": ["Excursion à Chapman's Peak Drive", "Route panoramique le long de la côte"],
+        "aprem": ["Déjeuner à Hout Bay", "Balade sur la plage de Noordhoek"],
+        "soir": ["Retour au Cap", "Dîner dans un restaurant de fruits de mer"]
+      },
+      "jour_12": {
+        "matin": ["Visite du Musée du District Six", "Exploration de l'histoire du district"],
+        "aprem": ["Déjeuner près du musée", "Balade dans le quartier"],
+        "soir": ["Dîner dans un restaurant local", "Spectacle culturel"]
+      },
+      "jour_13": {
+        "matin": ["Excursion à Table Mountain National Park", "Randonnée dans Silvermine Nature Reserve"],
+        "aprem": ["Déjeuner près du parc", "Baignade à la plage de Muizenberg"],
+        "soir": ["Retour au Cap", "Dîner dans un restaurant avec vue sur la montagne"]
+      },
+      "jour_14": {
+        "matin": ["Journée libre pour explorer le Cap à votre rythme", "Activités au choix"],
+        "aprem": ["Derniers achats de souvenirs", "Détente dans la ville"],
+        "soir": ["Dîner d'adieu au Cap", "Une dernière promenade nocturne"]
+      },
+      "jour_15": {
+        "matin": ["Départ du Cap", "Transfert à l'aéroport international"],
+        "aprem": ["Vol de retour", "Fin du voyage"]
       }
     }
   }
