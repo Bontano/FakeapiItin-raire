@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const itineraires = require("./data.json");
 
-var cors = require("cors");
+const cors = require("cors");
 app.use(express.json());
 app.use(cors());
 // Route pour obtenir les itinéraires d'une ville spécifique
